@@ -131,8 +131,8 @@ export HISTCONTROL=ignoreboth:erasedups
 
 # Make nano the default editor
 
-export EDITOR='helix'
-export VISUAL='helix'
+export EDITOR='nvim'
+export VISUAL='nvim'
 
 export PATH="$HOME/.tmuxifier/bin:$PATH"
 
